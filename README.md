@@ -32,7 +32,7 @@ Hello! I'm a software engineer with a passion for building scalable, efficient, 
 
 ## 🐋 Fun Fact About Orcas
 
-Orcas are apex predators, known for their intelligence, social bonds, and strategic problem-solving—traits I aim to embody as a software engineer!
+Orcas are apex predators, known for their intelligence, social bonds, and strategic problem-solving, traits I aim to embody as a software engineer!
 
 ---
 
