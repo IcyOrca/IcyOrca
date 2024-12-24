@@ -3,7 +3,7 @@
 ## 🌊 Dive into the World of Software Engineering 🌊
 
 Hello! I'm a software engineer with a passion for building scalable, efficient, and high-quality applications. 
-Like the mighty orca, I focus on adaptability, collaboration, and making a positive impact in the tech community!
+<br>Like the mighty orca, I focus on adaptability, collaboration, and making a positive impact in the tech community!
 
 ---
 
