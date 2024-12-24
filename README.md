@@ -2,7 +2,8 @@
 
 ## 🌊 Dive into the World of Software Engineering 🌊
 
-Hello! I'm a software engineer with a passion for building scalable, efficient, and high-quality applications. Like the mighty orca, I focus on adaptability, collaboration, and making a positive impact in the tech community!
+Hello! I'm a software engineer with a passion for building scalable, efficient, and high-quality applications. 
+Like the mighty orca, I focus on adaptability, collaboration, and making a positive impact in the tech community!
 
 ---
 
@@ -41,4 +42,5 @@ Orcas are apex predators, known for their intelligence, social bonds, and strate
 
 ---
 
-### Thank you for visiting! 🌊🐋 Let’s build great things together! 🌟
+### Thank you for visiting! 🌊🐋 
+### Let’s build great things together! 🌟
