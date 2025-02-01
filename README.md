@@ -3,6 +3,9 @@
 </p>
 
 <p align="center">
-  <br><hr>
-  <i align="center">Crafting code with a cup of coffee.</i>
+  <br>
+  <hr>
+  <p align="center">
+    <i>Crafting code with a cup of coffee.</i>
+  </p>
 </p>
