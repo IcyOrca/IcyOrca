@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IcyOrca/IcyOrca/main/coffee_animation.svg" alt="Coffee Animation" width="300">
+  <img src="https://raw.githubusercontent.com/IcyOrca/IcyOrca/main/coffee_animation.ssvg" alt="Coffee Animation" width="300">
 </p>
 
 <h1 align="center">☕ Java Developer</h1>
