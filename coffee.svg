@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="300" height="300">
+  <style>
+    .coffee-cup { fill: #6F4E37; }
+    .steam { fill: none; stroke: #DDD; stroke-width: 2; stroke-dasharray: 10; stroke-dashoffset: 100; animation: steam 2s infinite linear; }
+    @keyframes steam {
+      to { stroke-dashoffset: 0; }
+    }
+  </style>
+  
+  <!-- Coffee Cup -->
+  <path class="coffee-cup" d="M30,70 Q40,80 50,80 Q60,80 70,70 L70,40 Q60,30 50,30 Q40,30 30,40 Z" />
+  <path class="coffee-cup" d="M30,40 Q40,30 50,30 Q60,30 70,40 L70,70 Q60,80 50,80 Q40,80 30,70 Z" />
+  
+  <!-- Handle -->
+  <path class="coffee-cup" d="M70,50 Q80,50 80,60 Q80,70 70,70 L70,50 Z" />
+  
+  <!-- Steam -->
+  <path class="steam" d="M40,20 Q45,10 50,20" />
+  <path class="steam" d="M50,20 Q55,10 60,20" />
+  <path class="steam" d="M60,20 Q65,10 70,20" />
+</svg>
