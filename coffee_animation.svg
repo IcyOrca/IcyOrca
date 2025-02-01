@@ -1,23 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="300" height="300">
   <style>
-    .coffee-cup { fill: #6F4E37; stroke: #3E2C20; stroke-width: 2; }
-    .handle { fill: none; stroke: #6F4E37; stroke-width: 4; }
-    .steam { fill: none; stroke: #DDD; stroke-width: 2; stroke-linecap: round; 
-             animation: steam 2s infinite ease-in-out alternate; }
-    @keyframes steam {
-      from { opacity: 0.2; transform: translateY(3px); }
-      to { opacity: 0.8; transform: translateY(-3px); }
-    }
+    .steam { fill: none; stroke: #E76F00; stroke-width: 3; stroke-linecap: round; }
+    .cup { fill: none; stroke: #5382A1; stroke-width: 4; stroke-linecap: round; }
+    .saucer { fill: none; stroke: #5382A1; stroke-width: 3; stroke-linecap: round; }
   </style>
   
-  <!-- Coffee Cup -->
-  <path class="coffee-cup" d="M30,75 Q50,90 70,75 L75,40 Q65,30 50,30 Q35,30 25,40 Z" />
-  
-  <!-- Handle -->
-  <path class="handle" d="M70,45 Q85,50 80,65 Q75,75 65,70" />
-  
   <!-- Steam -->
-  <path class="steam" d="M40,25 Q45,10 50,25" />
-  <path class="steam" d="M50,25 Q55,10 60,25" />
-  <path class="steam" d="M60,25 Q65,10 70,25" />
+  <path class="steam" d="M45,25 C35,15 50,5 45,0" />
+  <path class="steam" d="M60,30 C65,20 45,10 60,0" />
+  <path class="steam" d="M70,25 C80,15 60,5 70,0" />
+  
+  <!-- Cup -->
+  <path class="cup" d="M30,70 Q50,90 70,70 L75,45 Q65,35 50,35 Q35,35 25,45 Z" />
+  <path class="cup" d="M70,50 Q85,55 80,65 Q75,75 65,70" />
+  
+  <!-- Saucer -->
+  <path class="saucer" d="M20,80 Q50,95 80,80" />
+  <path class="saucer" d="M15,85 Q50,100 85,85" />
 </svg>
