@@ -4,5 +4,5 @@
 
 <p align="center">
   <br><hr>
-  <i>Crafting code with a cup of coffee.</i>
+  <i align="center">Crafting code with a cup of coffee.</i>
 </p>
