@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IcyOrca/IcyOrca/main/coffee.svg" alt="Coffee Animation" width="300">
+  <img src="https://raw.githubusercontent.com/IcyOrca/IcyOrca/main/java_coffee.svg" alt="Coffee Animation" width="300">
 </p>
 
 <p align="center">
