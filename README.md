@@ -6,6 +6,6 @@
   <br>
   <hr>
   <p align="center">
-    <i>If it compiles, it works… probably.</i>
+    <i>If it compiles, it works… probably. 🦀</i>
   </p>
 </p>
