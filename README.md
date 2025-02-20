@@ -6,6 +6,6 @@
   <br>
   <hr>
   <p align="center">
-    <i>Crafting code with a cup of coffee.</i>
+    <i>If it compiles, it works… probably.</i>
   </p>
 </p>
